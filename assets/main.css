@@ -1,0 +1,23 @@
+* { padding:0; margin:0; border:none }
+a, a:visited { color: #43463D; text-decoration:none }
+a:hover, a:active, a.active { color: #AA7518; }
+body { text-align:center; font-size: 100%; color: #43463D; font-family: Helvetica,Arial,"SourceHanSansCN-Light", STHeiti,"Hiragino Sans GB","Microsoft Yahei","微软雅黑","华文细黑",sans-serif; }
+.en { word-break: keep-all; word-wrap: break-word; text-align:justify; text-justify:inter-ideograph; font-family: Arial,Helvetica;}
+.wrap { text-align:left; background: #D8E0C7; max-width: 2150px; margin: 0 auto; height:100%; width:100%;line-height:50%;}
+.section { position:relative; }
+.abs { position: absolute; }
+.section-1 { height: 2.5rem; }
+.nav { left: 3.83rem; top: 1rem; font-size: 0.22rem;}
+  .nav a { display: inline-block; margin-right: 1rem;  }
+  .home .nav { left: 3.64rem; top: 0.48rem; line-height: 0.22rem}
+.lang { top: 1rem; right: 0.91rem; font-size: 0.22rem; }
+  .lang span { margin: 0 .4rem }
+  .home .lang { top: 0.48rem; line-height: 0.22rem; right: 3.68rem;}
+.logo { width:1.6rem; height:0.9rem; left: 0.95rem; top: 0.7rem;}
+
+.home .home-logo { text-align: center; padding: 0.87rem 0;}
+  .home-logo img { width: 3.65rem; height: 2.06rem;}
+.home .section-1 { background: #CAD3B7; height: 1.1rem; z-index: 999}
+.is-sticky { z-index: 999}
+
+#footer { background:url(./home/bottom.png) no-repeat; height: 5.73rem; background-size: 100%; background-position: center bottom; }
