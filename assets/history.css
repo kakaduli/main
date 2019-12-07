@@ -26,10 +26,10 @@
   
 .side-img { opacity: 0.8;}
 /*! history */
-.s1 { width: 3.51rem; top:3.77rem; right:0; opacity:1 }
-.s2 { width: 3.59rem; top:23.34rem; left:0; opacity: 1}
+.s1 { width: 3.51rem; top:3.12rem; right:0; opacity:1 }
+.s2 { width: 3.59rem; top:25.34rem; left:0; opacity: 1}
 .s3 { width: 2.29rem; top: 28rem; right:0; opacity:1;}
-.s4 { width: 3.06rem; bottom: 0rem; left:0; opacity:1;}
+.s4 { width: 3.06rem; bottom: 0rem; left:0; opacity:0.7;}
 /*! aboutus */
 .s5 { width: 2.33rem; top: 3.6rem; right:0; }
 .s6 { width: 2.33rem; bottom: 0; left:0; opacity:1;}

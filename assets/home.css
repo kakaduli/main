@@ -50,9 +50,10 @@
   .section-8 .img2 { left:16.12rem; top: 1.98rem; width: 4.26rem;}
 
 .section-9 { text-align: center }
-  .section-9 .desc { font-size: 0.61rem; line-height: 0.61rem; color: #43463D; margin: 1.45rem auto; }
+  .section-9 .desc { font-size: 0.61rem; line-height: 0.61rem; color: #43463D; margin: 1.45rem auto 0.8rem auto; }
   .section-9 .images { text-align: justify; margin-top: 1.75rem; }
   .section-9 img { width: 5.16rem; height: 5.14rem}
+  .section-9 .desc .small { font-size: 0.28rem; line-height: 0.4rem; margin-top: 0.28rem;}
 
 .footer { background-color: #E6E9DF }
 
